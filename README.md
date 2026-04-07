@@ -106,17 +106,17 @@ The game ends when blocks reach the top of the grid.
 
 ### Important files
 
-`main.py` → game entry point
-`game.py` → main logic (coordinates all other files)
-`piece.py` → piece management (Piece class)
-`grid.py` → game grid management
-`render.py` → graphical rendering
+* `main.py` → game entry point
+* `game.py` → main logic (coordinates all other files)
+* `piece.py` → piece management (Piece class)
+* `grid.py` → game grid management
+* `render.py` → graphical rendering
 
 ---
 
 ### License
 
-This project is distributed under the GNU GPL license; for more details, see the LICENSE.md file.
+This project is distributed under the GNU GPL license; for more details, see the [LICENSE.md](LICENSE) file.
 
 ---
 
@@ -243,7 +243,7 @@ Il gioco termina quando i blocchi raggiungono la parte superiore della griglia.
 
 ### Licenza
 
-Questo progetto è distribuito sotto licenza GNU GPL; per ulteriori dettagli, consultare il file LICENSE.md
+Questo progetto è distribuito sotto licenza GNU GPL; per ulteriori dettagli, consultare il file [LICENSE.md](LICENSE)
 
 ---
 
